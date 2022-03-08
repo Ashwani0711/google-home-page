@@ -1,0 +1,17 @@
+.google{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column ;
+}
+body{
+    margin: 0%;
+}
+.search-bar{
+    width: 40%;
+    border-radius: 35px;
+    height: 3em;
+    padding-left: 1em;
+}
+.logo{margin-bottom: 2em;}
